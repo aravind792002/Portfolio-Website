@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Automatic irrigation Robotic System",
+    "desc": "Automation and streamline processes in order to reduce the need for manual labor and enhance operational efficiency.",
+    "image": "Irrigation",
+    "category": "Automatic irrigation System",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": " Campus route direction ",
+    "desc": "Campus route direction app Utilized Graph data structure and Dijkstra's algorithm to calculate optimal routes, integrated with Flutter for user-friendly campus navigation specially for our college campus",
+    "image": "Kiosk Machine",
+    "category": "Kiosk Machine",
+    "links": {
+    "view":"https://docs.google.com/document/d/1wy-lb_vaQz3HBXihb86xox94crBFH_C1/edit?usp=drive_link&ouid=112075947522399950820&rtpof=true&sd=true",
+    "code":"#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "Portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/aravind792002/Portfolio-Website"
+    }
+  }
+  
+]
