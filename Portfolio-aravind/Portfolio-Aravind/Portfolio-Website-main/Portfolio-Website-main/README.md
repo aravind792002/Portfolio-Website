@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3,  and JavaScript 
 
-<a href="https://Aravind-portfolio.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://aravindm-portfolio.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
